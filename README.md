@@ -1,12 +1,12 @@
 # Infinite-click
 
-##This an infinite click game made using pygame
+## This an infinite click game made using pygame
 
-###how to use:-
+### how to use:-
 download or clone the folder and run the main python file.
 
-###note:-
+### note:-
 make sure you have installed the pygamemodule and random modules
 
-###install pygame module:-
+### install pygame module:-
 'pip install pygame' - type this on to your terminal, you are good to go :)
